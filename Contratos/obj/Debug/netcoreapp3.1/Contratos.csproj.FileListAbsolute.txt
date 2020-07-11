@@ -1,0 +1,13 @@
+C:\Users\Breno\Documents\Projetos\Contratos\Contratos\bin\Debug\netcoreapp3.1\Contratos.exe
+C:\Users\Breno\Documents\Projetos\Contratos\Contratos\bin\Debug\netcoreapp3.1\Contratos.deps.json
+C:\Users\Breno\Documents\Projetos\Contratos\Contratos\bin\Debug\netcoreapp3.1\Contratos.runtimeconfig.json
+C:\Users\Breno\Documents\Projetos\Contratos\Contratos\bin\Debug\netcoreapp3.1\Contratos.runtimeconfig.dev.json
+C:\Users\Breno\Documents\Projetos\Contratos\Contratos\bin\Debug\netcoreapp3.1\Contratos.dll
+C:\Users\Breno\Documents\Projetos\Contratos\Contratos\bin\Debug\netcoreapp3.1\Contratos.pdb
+C:\Users\Breno\Documents\Projetos\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.csprojAssemblyReference.cache
+C:\Users\Breno\Documents\Projetos\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.csproj.CoreCompileInputs.cache
+C:\Users\Breno\Documents\Projetos\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.AssemblyInfoInputs.cache
+C:\Users\Breno\Documents\Projetos\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.AssemblyInfo.cs
+C:\Users\Breno\Documents\Projetos\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.dll
+C:\Users\Breno\Documents\Projetos\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.pdb
+C:\Users\Breno\Documents\Projetos\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.genruntimeconfig.cache
